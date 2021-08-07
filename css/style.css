@@ -29,3 +29,11 @@ color:  black;
     background-color: burlywood;
     color:brown;
 }
+body{
+    padding: 31px 0px 0px 0px;
+    z-index: 0;
+}
+.navbar-dark{
+    background-color: darkred;
+    color:blanchedalmond;
+}
