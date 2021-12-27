@@ -46,3 +46,34 @@ body{
     border-bottom: 1px solid #ddd;
     padding: 10px;
 }
+.carousel {
+    background:burlywood;
+}
+
+.carousel-item {
+  height: 300px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+#carouselCont {
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+}
+.modal .modal-header{
+    background-color: black;
+    color:floralwhite;
+}
+.modal .modal-body{
+    background-color: gray;
+    color:floralwhite;
+}
+.modal .modal-header .close{
+    color:green;
+}
